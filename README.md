@@ -17,5 +17,5 @@ It utilizes the requests library to send HTTP GET requests, BeautifulSoup for pa
 </ul>
 <h3>Code file:</h3>
 
-<p>lease refer to the file "Project Web Scraping-SuzanneTsang.ipynb" <br>or access the Google Colab notebook for review at https://colab.research.google.com/drive/1c5SSWEXwMqbviDte96Ul9GCIBHaoun3W?usp=drive_link .</p>
+<p>Please refer to the file "Project Web Scraping-SuzanneTsang.ipynb" <br>or access the Google Colab notebook for review at https://colab.research.google.com/drive/1c5SSWEXwMqbviDte96Ul9GCIBHaoun3W?usp=drive_link .</p>
 
